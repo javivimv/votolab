@@ -1,0 +1,13 @@
+.footer {
+    text-align: center;
+    font-size: 0.8em;
+    margin: 20px auto;
+    color: #CCCCCC;
+    display: block;
+    clear: both;
+}
+
+.panel-heading .btn {
+    top: -5px;
+    position: relative;
+}
